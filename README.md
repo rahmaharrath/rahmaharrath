@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @depressofrog
+- 👋 Hi, I’m @rahmaharrath
 - 👀 I’m interested in Computer Science  
 - 🌱 I’m currently learning Machine Learrning
 
